@@ -29,7 +29,12 @@ Tech: HTML, CSS, JS, PHP
 Responsive job listing and management website with admin features.  
 Tech: HTML, CSS, JS, Bootstrap, PHP
 
-🔸  Personal Portfolio (In Progress)   
+🔸 Chat bot - for media companies
+Interactive chatbot that helps users get information/ news about speific
+ topic/agenda 
+ Tech: React, Python
+
+🔸  Personal Portfolio    
 My own developer portfolio showcasing my work and skills.  
 Tech: HTML, CSS, JS
 
